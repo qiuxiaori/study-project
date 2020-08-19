@@ -1,0 +1,10 @@
+// 基本用法
+// Promise.prototype.then()
+// Promise.prototype.catch()
+// Promise.prototype.finally()
+// Promise.all()
+// Promise.race()
+// Promise.allSettled()
+// Promise.any()
+// Promise.resolve()
+// Promise.reject()
